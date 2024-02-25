@@ -19,8 +19,8 @@ interface TagSEOProps {
 // Predefined SEO tags — prefilled with default values but you can customize them for each page
 // This let you add default SEO tags to all pages, like /terms, /privacy, without rewrtting them all
 
-const appName = "Tax Tools"
-const domainName = "tax-tools.vercel.app"
+const appName = "GPA Tools"
+const domainName = "gpa-tools.vercel.app"
 
 const defaults = {
   title: `up to 50 characters | ${appName}`,
